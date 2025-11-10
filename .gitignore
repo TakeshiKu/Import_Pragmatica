@@ -1,2 +1,21 @@
-<file name=README.md path=/Users/takeshi_k/Documents/НИЦ/_PRAGMATICA/Import_Pragmatica/README.md>Рабочая структура для подготовки файлов и структур, загружаемых в систему Pragmatica.
-</file>
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System temp files
+*.log
+*.tmp
+
+# Excel autosave / backup
+~$*.xls*
